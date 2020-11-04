@@ -18,12 +18,12 @@ body{
     background-color: white;
 }
 .navbar{
-    background:url("/img/wood.jpg");
+    background:url("../img/wood.jpg");
     background-position: center;
 }
 
 .icedog{
-    background:url("/img/icecream1.jpg");
+    background:url("../img/icecream1.jpg");
     background-position: 70% 30%;
     width: 100%;
     height: 400px;
@@ -39,7 +39,7 @@ body{
 }
 
 .pikeplace{
-    background: url("/img/pikeplace.jpg");
+    background: url("../img/pikeplace.jpg");
     background-position: 50% 60%;
     height: 400px;
 }
@@ -53,7 +53,7 @@ body{
 }
 
 .cones{
-    background: url("/img/cones.jpg");
+    background: url("../img/cones.jpg");
     background-position: center;
     height: 400px;
 }
@@ -67,7 +67,7 @@ body{
 }
 
 .ice-cream-1{
-    background: url("/img/iceream2.jpg");
+    background: url("../img/iceream2.jpg");
     background-position: 50% 30%;
     height: 400px;
 }
@@ -81,7 +81,7 @@ body{
 }
 
 .social-media{
-    background: url("/img/socialmedia.jpg");
+    background: url("../img/socialmedia.jpg");
     background-position: center;
     height: 400px;
 }
@@ -95,7 +95,7 @@ body{
 }
 
 .basset{
-    background: url("/img/basset.jpg");
+    background: url("../img/basset.jpg");
     background-position: 50% 50%;
     height: 400px;
 }
@@ -104,7 +104,7 @@ body{
 
 /* flavors page */
 .ice-cream-3{
-    background: url("/img/icecream4.jpg");
+    background: url("../img/icecream4.jpg");
     background-position: 30% 15%;
     height: 700px;
 }
@@ -112,7 +112,7 @@ body{
 
 /* story page  */
 .seattle{
-    background: url("/img/seattle.jpg");
+    background: url("../img/seattle.jpg");
     background-position: 50% 35%;
     height: 700px;
 }
@@ -123,7 +123,7 @@ body{
 
 /* contact page */
 .ice-cream-2{
-    background: url("/img/icecream3.jpg");
+    background: url("../img/icecream3.jpg");
     background-position: center;
     height: 700px;
 }
