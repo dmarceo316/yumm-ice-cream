@@ -45,7 +45,7 @@ body{
 }
 
 .pikeplace:hover{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url("/img/pikeplace.jpg");
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url("../img/pikeplace.jpg");
 }
 
 .pikeplace a{
